@@ -1,5 +1,5 @@
 {
-  "name": "object-to-xml",
+  "name": "object-to-xml-patched",
   "version": "2.0.0",
   "description": "Convert any object to XML",
   "main": "index.js",
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/wankdanker/node-object-to-xml.git"
+    "url": "git://github.com/lkrazy/node-object-to-xml.git"
   },
   "keywords": [
     "object",
     "xml",
     "convert"
   ],
-  "author": "Dan VerWeire",
+  "author": "Lanh Dang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wankdanker/node-object-to-xml/issues"
+    "url": "https://github.com/lkrazy/node-object-to-xml/issues"
   },
   "dependencies": {
     "dank-each": "^1.0.0",
